@@ -1,4 +1,4 @@
-# Time Series Sales Forecasting with SARIMA
+# Time Series Stock Sales Forecasting with SARIMA
 
 This project demonstrates a complete workflow for forecasting daily sales of a specific store and product family using historical sales data. The model is developed using Python and applies a Seasonal ARIMA (SARIMA) approach to capture both seasonal patterns and trends.
 
